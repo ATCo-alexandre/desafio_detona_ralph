@@ -45,8 +45,6 @@
     justify-content: center;
 }
 
-/* Dentro do menu-time, colocar margin-top para o segundo filho */
 .menu-tempo h2:nth-child(2), .menu-pontuacao h2:nth-child(2) {
-    /* Medida rem ajuda a manter a proporção e a responsividade */
     margin-top: 1rem;
 }
